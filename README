@@ -1,0 +1,40 @@
+Author: Vinod Halaharvi
+I have added few python snippets to zencoding plugin, written by Sergey Chikuyonok.
+
+So,
+class>def*3>foritems 
+expands to:
+class ClassName (object):
+	
+	"""
+		@name:
+		@description:
+		@params:
+		@returns:
+	"""
+	def fname(self, *args, **kwargs):
+		
+		for k, v in dct.items():
+			
+	
+	"""
+		@name:
+		@description:
+		@params:
+		@returns:
+	"""
+	def fname(self, *args, **kwargs):
+		
+		for k, v in dct.items():
+			
+	
+	"""
+		@name:
+		@description:
+		@params:
+		@returns:
+	"""
+	def fname(self, *args, **kwargs):
+		
+		for k, v in dct.items():
+			
